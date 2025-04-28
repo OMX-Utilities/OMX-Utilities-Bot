@@ -1,0 +1,10 @@
+{
+    "TOKEN": "your_token_here",
+    "GUILD_ID": "your_guild_id_here",
+    "ADMIN_ROLE_ID": "your_admin_role_id_here",
+    "DESIGNER_ROLE_ID": "your_designer_role_id_here",
+    "AUTOROLE_ID": "your_autorole_id_here",
+    "WELCOME_CHANNEL_ID": "your_welcome_channel_id_here",
+    "GOODBYE_CHANNEL_ID": "your_goodbye_channel_id_here",
+    "EMBED_COLOR": "#EB514B"
+}
